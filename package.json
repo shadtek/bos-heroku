@@ -1,0 +1,27 @@
+{
+  "name": "best-of-state",
+  "version": "1.0.0",
+  "description": "Website for Best of State",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadtek/oldcountry.git"
+  },
+  "keywords": [
+    "best of state",
+    "utah"
+  ],
+  "author": "Spencer Shattuck",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "engines": {
+    "node": "v6.9.1",
+    "npm": "3.10.8"
+  }
+}
